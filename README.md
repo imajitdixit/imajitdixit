@@ -1,6 +1,6 @@
 ![logo](https://github.com/imajitdixit/imajitdixit/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Ajit Dixit</h1>
-<h3 align="center">A passionate mern stack developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" width="400" alt="letscode" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imajitdixit&label=Profile%20views&color=0e75b6&style=flat" alt="imajitdixit" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **for placement purpose**
 
-- 👯 I’m looking to collaborate on **mern stack projects**
+- 👯 I’m looking to collaborate on **Data Driven Projects**
 
-- 💬 Ask me about **react , mongoDB , data structures, Algorithms**
+- 💬 Ask me about **SQL , Power BI , data structures, Algorithms**
 
 - 📫 How to reach me **ajitdixit412@gmail.com**
 
